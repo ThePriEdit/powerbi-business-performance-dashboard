@@ -6,7 +6,7 @@ and KPIs across 4 regions and 3 product categories — built using real transact
 of 214 orders across Jan–Dec 2024.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 🔍 Key Insights
 - Identified **Electronics** as the top revenue segment at ~45%, followed by **Furniture** at ~29%, together contributing ~74% of total revenue
